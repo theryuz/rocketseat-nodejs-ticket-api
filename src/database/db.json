@@ -9,15 +9,6 @@
             "updated_at": "2024-09-27T17:56:55.306Z",
             "solution": "Resolvido",
             "closed_at": "2024-09-27T18:01:12.872Z"
-        },
-        {
-            "id": "263fa665-bdbe-40f5-913c-88e0f36098de",
-            "equipment": "Computador",
-            "description": "Computador não liga",
-            "user_name": "Bryan",
-            "status": "open",
-            "created_at": "2024-09-25T19:33:37.490Z",
-            "updated_at": "2024-09-25T19:33:37.490Z"
         }
     ]
 }
